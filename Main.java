@@ -47,7 +47,7 @@ public class Main {
                     System.out.print(TheStrings.get(i).replace("\"", "") + " ");
                 } else {
                     System.out.println(TheStrings.get(i).replace("\"", ""));
-                    // Resets max char so it can reiterate through the println process.
+                    // Resets the max char to 0 so it can reiterate through the println process.
                     MaxChar = 0;
                 }
 
