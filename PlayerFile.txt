@@ -1,0 +1,20 @@
+p1 Name : Michelangelo
+p1 Home Land : A Cave
+p1 Color : 2
+p1 Patron God : 1
+p1 Days at Sea : 246
+p2 Name : Mark
+p2 Home Land : Greece
+p2 Color : 1
+p2 Patron God : 2
+p2 Days at Sea : 59
+p3 Name : Ethan
+p3 Home Land : A Cave
+p3 Color : 3
+p3 Patron God : 2
+p3 Days at Sea : 69
+p4 Name : George
+p4 Home Land : Ithica
+p4 Color : 2
+p4 Patron God : 1
+p4 Days at Sea : 187
